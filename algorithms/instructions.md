@@ -6,9 +6,7 @@ The only rule is that all the letters from the original word must be used when t
 implement a function isAnagram that returns true if two words are anagrams and return false if the word are not (also return false if no words where given)
 
 # Examples
-isAnagram("below", "elbow") to return true
-isAnagram("meteor", "remote") to return true
-isAnagram("hackathon", "achcthoon") to return false
+  to return false
 
 # Challenge 2
 
